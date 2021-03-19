@@ -1,14 +1,22 @@
 # lcc-site
 Gabriel Pusey 
-<!doctype html>
-            
-            <html lang="en">
-            <head>
-              <meta charset="utf-8">
-              <title>my index page</title>
-            </head>
-            
-            <body>
-              <p>hello world.</p>
-            </body>
-            </html>
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>gabriel's web thing</title>
+</head>
+
+<body>
+<h1>Funny Text</h1>
+
+<p>aaaaaaaaaaaaa</p>
+
+<h2>Funnier Text</h2>
+<h3>*Insert Comedy Here*</h3>
+  </body>
+
+  <!-- You can read -->
+
+</html>
